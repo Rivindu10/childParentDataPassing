@@ -1,2 +1,2 @@
-Here is the simple example about child-parent data passing using props.
-#Before execute this file install the node modules and json packages 
+React parent-child Communication app Basic communication between a parent and a child component in a react application. The parent passes a function to the child,allowing the child to send data back to the parent.
+#Before execute install the node-modules
